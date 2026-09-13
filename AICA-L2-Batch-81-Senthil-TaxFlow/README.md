@@ -147,3 +147,19 @@ npm run test
 - **Author**: Senthil
 - **GitHub**: [@senrocks](https://github.com/senrocks)
 - **Capstone Track**: AICA Level 2
+
+---
+
+## 7. License & Intellectual Property
+
+Copyright (c) 2026 **Senthil Kumar K** ([@senrocks](https://github.com/senrocks)). All rights reserved.
+
+- **Primary Repository**: [https://github.com/senrocks/TaxFlow](https://github.com/senrocks/TaxFlow)
+- **License**: [PolyForm Noncommercial License 1.0.0](LICENSE)
+
+This project is submitted exclusively for educational evaluation as part of the **AICAI Level 2 Certification Capstone**.
+
+- **Permitted**: Noncommercial use, academic evaluation, code review, and personal learning.
+- **Prohibited**: Commercial use, monetized deployment, creating competitive products, or unauthorized distribution/resale.
+
+For commercial licensing, enterprise inquiries, or partnerships, please contact `senthilk2510@gmail.com`.
