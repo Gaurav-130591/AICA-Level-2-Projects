@@ -4,6 +4,8 @@
 
 This guide explains how to contribute your complete project folder to the **AICA-Level-2-Projects** repository using GitHub’s **Fork + Pull Request** workflow.
 
+View your app in AI Studio: https://ai.studio/apps/af3a28f1-b3e2-43c9-b427-5bc8f8761be0
+View your app in AI Studio: https://ai.studio/apps/b49c013d-e05a-4bda-abc3-766b35b09cb9
 Two methods are covered:
 
 1. **Website-only method** — no software installation required.
